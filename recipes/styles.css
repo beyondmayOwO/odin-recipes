@@ -1,0 +1,49 @@
+.pasta-heading{
+    background-color:rgb(249, 229, 79);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+}
+
+.pasta-img{
+    max-width:100%;
+    height:auto;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+}
+
+.pasta-subheadings{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(18, 126, 18);
+}
+
+.pasta-description, .pasta-ingredients, .pasta-steps{
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 2;
+}
+
+.pancakes-heading{
+    background-color:rgb(246, 163, 91);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+}
+
+.pancakes-img{
+    max-width:100%;
+    height:auto;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+}
+
+.pancakes-subheadings{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(114, 105, 30);
+}
+
+.pancakes-description, .pancakes-ingredients, .pancakes-steps{
+    font-family:Arial, Helvetica, sans-serif;
+    line-height:2;
+}
