@@ -1,0 +1,27 @@
+.main-heading {
+    font-family: 'Jost', sans-serif;
+    font-size: 50px;
+    color: rgb(167, 94, 235);
+    margin-left: 550px;
+}
+
+.recipes-list {
+  list-style: none;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+}
+
+.recipes-list li {
+  display: inline-block;
+  margin: 80px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.recipes-images img{
+  display: inline-block;
+  margin-top: auto;
+  margin-left: 73px;
+  height: 400px;
+  width: 25%;
+}
